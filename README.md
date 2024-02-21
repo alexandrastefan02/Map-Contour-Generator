@@ -1,4 +1,4 @@
-=================================TEMA-1 - APD===================================
+===============TEMA-1 - APD=============
 
 Tema a constat in paralelizarea algorimtmului de image-processing "Marching
 Squares". Pentru a realiza acest lucru, porning de la implementarea data, cea
